@@ -47,7 +47,7 @@ Share updates. Ask questions. Be open and transparent at all times. With each in
 
 Encourage your team to engage in frequent discussions. Quality discussions can reveal critical information that moves the work forward and helps the team feel more connected.
 
-## ✅ 3. Look for ways to innovate
+### ✅ 3. Look for ways to innovate
 
 Agility is all about delivering maximum value to customers. When a customer's needs change, you need to respond quickly with an innovative solution.
 
@@ -55,7 +55,7 @@ Having an agile mindset means you're constantly looking for opportunities to inn
 
 As you complete your daily tasks, think if there are ways to improve what you're doing. Analyzing and improving your team's work will be valuable for your future career.
 
-✅ 4. Actively improve your skills
+### ✅ 4. Actively improve your skills
 
 Agile is all about continuous improvement. In your daily work, always look for opportunities to learn and grow your skillset.
 
