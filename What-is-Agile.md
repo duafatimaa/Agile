@@ -47,7 +47,7 @@ Share updates. Ask questions. Be open and transparent at all times. With each in
 
 Encourage your team to engage in frequent discussions. Quality discussions can reveal critical information that moves the work forward and helps the team feel more connected.
 
-✅ 3. Look for ways to innovate
+## ✅ 3. Look for ways to innovate
 
 Agility is all about delivering maximum value to customers. When a customer's needs change, you need to respond quickly with an innovative solution.
 
