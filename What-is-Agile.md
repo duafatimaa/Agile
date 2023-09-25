@@ -63,7 +63,7 @@ Pause for a minute and think about your current skills: Which skills seem to be 
 
 Prioritizing your skill development is always a good idea. Not only does it help your team, but it also improves your future career opportunities.
 
-✅ 5. Your work doesn't have to be perfect
+### ✅ 5. Your work doesn't have to be perfect
 
 Your goal is to deliver something that works; an MVP. Not to make every detail perfect.
 
@@ -71,7 +71,7 @@ Shift your mindset to focus on doing "good enough" work, and then get immediate 
 
 "Good enough" is different for every team and every project. If the parameters are not clear, you may want to discuss them with your team leader.
 
-✅ 6. Have a plan, but always be ready to pivot
+### ✅ 6. Have a plan, but always be ready to pivot
 
 An agile mindset is about being flexible and ready for any unpredictable change. Yes, you should always have a Plan A (and B and C, if time allows). But you'll be most successful at work if your mind is always prepared to pivot.
 
